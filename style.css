@@ -1,0 +1,16 @@
+p.a{color: deeppink; 
+    font-size: 18px;background-color: aquamarine;}
+p.b{color: rgb(153, 0, 255);
+    font-size: 18px;background-color: pink;width: 33%;float: left;}
+p.c{color: deeppink; 
+    font-size: 18px;background-color: aquamarine;width: 33%;float: left;} 
+p.d{color: rgb(153, 0, 255);
+    font-size: 18px;background-color: pink;width: 33%;float: left;} 
+    body{background-color: aquamarine;}
+    .container1{
+        position: relative;
+        text-align: center;
+        color: blue;
+        margin: 0;
+        padding: 0;
+    }
